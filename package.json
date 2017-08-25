@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/abdul-osman/gulp-workflow#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
     "gulp-sass": "^3.1.0"
   }
 }
